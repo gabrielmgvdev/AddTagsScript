@@ -4,7 +4,7 @@ import base64
 organization = "sua-organizacao"  
 project = "seu-projeto"  
 tag_to_add = "sua-tag"  
-work_items_ids = [152245, 139951, 139948, 137735, 145922, 146245, 145921, 151279, 137740, 137737, 151282, 151285, 151340]  
+work_items_ids = [123, 321]  
 
 pat = "SEU_PERSONAL_ACCESS_TOKEN_AQUI"
 
